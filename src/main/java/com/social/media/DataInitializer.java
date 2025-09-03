@@ -41,8 +41,6 @@ public class DataInitializer {
             userRepository.save(user2);
             userRepository.save(user3);
 
-
-
             // Create some groups
             SocialGroup group1 = new SocialGroup();
             SocialGroup group2 = new SocialGroup();

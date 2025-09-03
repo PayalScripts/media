@@ -1,8 +1,8 @@
 package com.social.media.services;
-import com.social.media.controllers.SocialController;
-import org.slf4j.Logger;
+
 import com.social.media.models.SocialUser;
 import com.social.media.repositories.SocialUserRepository;
+import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
